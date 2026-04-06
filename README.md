@@ -11,8 +11,7 @@ Ce dépôt contient mon rendu pour le premier TP de mise en place de la topologi
 ## 🗺️ Topologie Réseau
 Voici la capture de l'infrastructure déployée sur GNS3 :
 
-![Topologie du TP1](./chemin/vers/ton/image_topologie.png)
-*(Pense à remplacer le chemin par le bon nom de ton fichier image)*
+![Topologie du TP1](./tp1.png)
 
 ## 🚀 Récapitulatif des configurations
 
