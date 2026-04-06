@@ -11,7 +11,7 @@ Ce dépôt contient mon rendu pour le premier TP de mise en place de la topologi
 ## 🗺️ Topologie Réseau
 Voici la capture de l'infrastructure déployée sur GNS3 :
 
-![Topologie du TP1](.https://github.com/Bathoryn/Infra_Reseux_Securise_Emile_ANOSOV/blob/main/tp1.png)
+![Topologie du TP1](.https://raw.githubusercontent.com/Bathoryn/Infra_Reseux_Securise_Emile_ANOSOV/refs/heads/main/tp1.png?token=GHSAT0AAAAAADZEHUKFWRKEIPB3EGVCKS7C2OTWQIQ)
 
 ## 🚀 Récapitulatif des configurations
 
